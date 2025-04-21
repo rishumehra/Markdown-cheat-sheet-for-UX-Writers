@@ -14,4 +14,4 @@ Quick-reference guide to streamline UX writing in GitHub, Notion, and design too
 
 `#UXWriting` `#ContentDesign` `#Markdown`
 
-Here is the [Markdown Cheat-Sheet for UX Writers](Markdown-Cheat-Sheet-for-UX-Writers.md) and in [PDF format](Markdown-Cheat-Sheet-for-UX-Writers.pdf).
+Here is the [Markdown Cheat-Sheet for UX Writers](Markdown-Cheat-Sheet-for-UX-Writers.md) in `.md` format and in [PDF format](Markdown-Cheat-Sheet-for-UX-Writers.pdf).
